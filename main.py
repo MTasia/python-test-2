@@ -1,8 +1,8 @@
 import os
-import .dir_reader
-import .file_reader
-import .research
-import .graph_iter
+import dir_reader
+import file_reader
+import research
+import graph_iter
 
 
 def reading_file(list_file):
