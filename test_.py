@@ -2,8 +2,8 @@ import os
 import sys
 import pytest
 
-import src.dir_reader as d_r
-import src.file_reader as f_r
+import dir_reader as d_r
+import file_reader as f_r
 
 
 def test_DirReader():
